@@ -1,11 +1,9 @@
-[퀘스트 C-2] 코드피어리뷰
+# AIFFEL Socar Campus Code Peer Review Templete
 
-#AIFFEL Socar Campus Code Peer Review Templete
-
-코더 : [코드 작성자]
+코더 : [최영석]
 리뷰어 : [리뷰어]
 
-##PRT(PeerReviewTemplate) 
+## PRT(PeerReviewTemplate) 
 각 항목을 스스로 확인하고 토의하여 작성한 코드에 적용합니다.
 
 [O] 코드가 정상적으로 동작하고 주어진 문제를 해결했나요?
